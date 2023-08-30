@@ -1,0 +1,170 @@
+.navbar-brand {
+    font-size: 200%;
+    color: ghostwhite;
+    text-shadow: black 0 0 6px;
+}
+
+.carh5 {
+    font-family: "Droid Sans Mono Slashed";
+    font-size: 200%;
+    color: ghostwhite;
+    text-shadow: red 0 0 10px;
+}
+
+.carp {
+    font-size: 150%;
+    color: ghostwhite;
+    text-shadow: red 0 0 6px;
+    background-color: rgba(0,0,0,0.1);
+}
+
+#broksl {
+    background-color: rgba(0,0,0,0);
+}
+
+.navbar {
+    background-color: #650700;
+}
+
+.unca {
+    font-size: 110%;
+    background-color: #230035;
+    color: ghostwhite;
+    text-shadow: black 0 0 6px;
+}
+
+.btnse {
+    margin: 0px 0px 5px 0px;
+}
+
+.ups {
+    font-size: 110%;
+    color: ghostwhite;
+}
+
+.cardd {
+    font-size: 110%;
+    background-color: #230035;
+}
+
+.footmy {
+    background-color: #650700;
+    font-size: 110%;
+    color: ghostwhite;
+    text-shadow: black 0 0 6px;
+}
+
+.footmy > p {
+    position: relative;
+    left: 410px;
+}
+
+.footmy_01 {
+    position: relative;
+    left: 50px;
+    color: mediumpurple;
+    text-decoration: none;
+}
+
+.cont {
+    background-color: #230035;
+    color: ghostwhite;
+    text-shadow: black 0 0 6px;
+}
+
+.ema {
+    position: relative;
+    left: 180px;
+}
+
+.nam {
+    position: relative;
+    left: 210px;
+}
+
+.tex {
+    position: relative;
+    left: 178px;
+    bottom: 10px;
+    width: 103%;
+}
+
+.FMnames {
+    font-size: 110%;
+    color: ghostwhite;
+    position: relative;
+    left: 90px;
+}
+
+.FMmails {
+    color: ghostwhite;
+    position: relative;
+    left: 170px;
+    bottom: 15px;
+}
+
+.bt {
+    position: relative;
+    left: 200px;
+    background-color: red;
+    border-color: black;
+}
+
+.bt:hover {
+    position: relative;
+    left: 200px;
+    background-color: darkmagenta;
+    border-color: black;
+}
+
+.fmv {
+    position: relative;
+    left: 80px;
+    float: left;
+    color: ghostwhite;
+    text-shadow: black 0 0 6px;
+    font-size: 110%;
+
+}
+
+.fmvtab {
+    position: relative;
+    left: 230px;
+    border: 3px solid black;
+}
+
+.img-thumbnail {
+    background-color: black;
+    border-color: black;
+}
+
+.fmvbtn {
+    position: relative;
+    bottom: 20px;
+    background-color: red;
+    border-color: black;
+}
+
+.fmvbtn:hover {
+    position: relative;
+    bottom: 20px;
+    background-color: darkmagenta;
+    border-color: black;
+}
+
+.btn3 {
+    background-color: royalblue;
+    border-color: black;
+}
+
+.btn3:hover {
+    background-color: darkred;
+    border-color: black;
+}
+
+.comm {
+    font-family: "Droid Sans Mono Slashed";
+    font-size: 150%;
+    color: ghostwhite;
+    text-shadow: red 0 0 10px;
+}

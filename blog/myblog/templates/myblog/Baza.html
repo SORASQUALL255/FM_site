@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+{% for post in posts %}
+<h2>{{ post.h1 }}</h2>
+<p>{{ post.url }}</p>
+{{ post.description|safe }}
+<p>{{ post.content }}</p>
+<p>{{ post.created_at }}</p>
+<p>{{ post.author }}</p>
+{% endfor %}
+</body>
+</html>
